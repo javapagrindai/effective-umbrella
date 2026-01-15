@@ -8,7 +8,7 @@ Pvz. jei užduotis padauginti duotą skaičių iš dviejų ir duotas kodas:
         public void multiplyByTwo(int number) {
 
         }
-Sprendimas yra toks:
+Sprendimas yra toks aaa:
 
         public void multiplyByTwo(int number) {
             System.out.println(number * 2);
